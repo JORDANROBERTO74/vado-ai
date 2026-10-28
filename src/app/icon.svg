@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vado">
+  <rect width="64" height="64" rx="15" fill="#0f1110" />
+  <path
+    d="M12 24c7 0 7.5 18 14 18s6.5-24 13-24 5.5 18 13 18"
+    fill="none"
+    stroke="#b4471f"
+    stroke-width="5"
+    stroke-linecap="round"
+  />
+</svg>
