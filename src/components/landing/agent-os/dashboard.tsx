@@ -4,7 +4,17 @@ import { cn } from "@/lib/utils";
 
 function Sparkline() {
   return (
-    <svg viewBox="0 0 80 24" className="mt-auto h-9 w-full" aria-hidden="true">
+    <svg
+      viewBox="0 0 80 24"
+      preserveAspectRatio="none"
+      className="mt-auto h-24 w-full"
+      aria-hidden="true"
+    >
+      <path
+        d="M0,20 L12,16 L24,17 L36,11 L48,9 L60,6 L72,4 L80,3 L80,24 L0,24 Z"
+        fill="var(--color-positive)"
+        opacity="0.1"
+      />
       <polyline
         fill="none"
         stroke="var(--color-positive)"
