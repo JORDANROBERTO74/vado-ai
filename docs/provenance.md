@@ -85,3 +85,8 @@ The rebuild defines the tokens in `@theme` with the names the components already
 - `pnpm typecheck`, `pnpm lint` and `pnpm build` complete without errors or warnings.
 - `robots.txt`, a multilingual `sitemap.xml`, `hreflang` alternates and a generated 1200×630 OpenGraph card are in place.
 - Motion uses `MotionConfig reducedMotion="user"` and a global `prefers-reduced-motion` rule; the page renders complete with JavaScript disabled.
+
+## License note
+
+This repository contains derivative work. The license covers only the original
+contributions of the copyright holder. See [LICENSE](../LICENSE).
